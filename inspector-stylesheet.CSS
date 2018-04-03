@@ -1,0 +1,17 @@
+box {
+    box-sizing:  20px;
+}
+
+ul {
+    font-size: 15px;
+    box-sizing: 73px 12px;
+    background-color: #5fd2c2;
+    color: #E91E63;
+}
+
+ul {}
+
+element.style {
+    font-size: 15px;
+    background-color: #4eafa6;
+}
